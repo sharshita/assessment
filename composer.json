@@ -1,7 +1,7 @@
 {
     "name": "drupal/qr_code",
     "description": "Generates Qr Code using PHP QR code.",
-    "type": "drupal-custom-module"
+    "type": "drupal-custom-module",
     "require": {
         "php": "^7.3 || ^8.0",
         "drupal/core": "^9.2 || ^10",
